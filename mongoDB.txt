@@ -1,0 +1,4 @@
+nome de usuario: Benatti
+senha: d1a2n3i4e5l6
+conection IP 179.212.46.44
+conection string: mongodb+srv://Benatti:<d1a2n3i4e5l6>@primeirocluster.yoh2n7h.mongodb.net/?retryWrites=true&w=majority&appName=primeiroCluster
