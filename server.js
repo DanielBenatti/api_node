@@ -57,3 +57,8 @@ app.delete('/cadastro/:id', async(req,res)=>{
 
 //configurar porta do servidor
 app.listen(3000,()=>{console.log('Servidor Rodando!')})
+
+
+//npm i
+//npx prisma db push
+//node --watch server.js
